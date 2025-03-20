@@ -5,6 +5,7 @@ body{
     font-family:Happy Monkey;
     background-color:#a2d2ff;
     color:white;
+    background: linear-gradient(lightskyblue, pink)
 }
 
 #header{
